@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HLwRdCfwaMJfLgMxgEQjpJZhgTK1N3+XfxoN9BCVh3DP4EkkjOwzbSx8pUZdjhvhsdKryxXvKakReusy9KDgGQ==",
+  "success": true,
+  "projectFilePath": "/home/cezar/Documentos/Projetos/ApiCartao/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/cezar/.nuget/packages/flunt/1.0.5/flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
